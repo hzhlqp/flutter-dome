@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
-import 'package:flutter_app/ui/common/app_colors.dart';
+import 'package:flutter_dome/ui/common/app_colors.dart';
 import 'counter_viewmodel.dart';
 
 class CounterView extends StackedView<CounterViewModel> {
@@ -14,7 +14,7 @@ class CounterView extends StackedView<CounterViewModel> {
   ) {
     return Scaffold(
       backgroundColor: Theme.of(context).colorScheme.background,
-      appBar: AppBar(title: const Text('flutter_app')),
+      appBar: AppBar(title: const Text('sss')),
       body: Container(
         padding: const EdgeInsets.only(left: 25.0, right: 25.0),
         child: Center(

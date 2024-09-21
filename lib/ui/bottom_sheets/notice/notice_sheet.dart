@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/ui/common/app_colors.dart';
-import 'package:flutter_app/ui/common/ui_helpers.dart';
+import 'package:flutter_dome/ui/common/app_colors.dart';
+import 'package:flutter_dome/ui/common/ui_helpers.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';
 
