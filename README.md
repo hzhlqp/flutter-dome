@@ -1,2 +1,3 @@
-# flutter-dome
-练手用的
+# flutter_app
+
+A new Flutter project.
